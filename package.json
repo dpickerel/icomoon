@@ -1,0 +1,23 @@
+{
+  "name": "@dpickerel/icomoon",
+  "version": "1.0.1",
+  "description": "test package for icomoon",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpickerel/icomoon.git"
+  },
+  "keywords": [
+    "glyphs",
+    "dpickerel"
+  ],
+  "author": "don pickerel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dpickerel/icomoon/issues"
+  },
+  "homepage": "https://github.com/dpickerel/icomoon#readme"
+}
